@@ -1,6 +1,6 @@
-# Hi, I'm Abhilash M 👋
+# Hi, I'm Abhilash Mamminiyan 👋
 
-**Aspiring Full Stack Developer (MERN) | Junior Test Engineer (1 yr) | Diploma in ECE**
+**Full Stack Developer (MERN) | Application Developer | Junior Test Engineer (1 yr) | Diploma in ECE**
 
 I’m transitioning from electronics manufacturing (testing & QA) into full‑stack web development. I love turning real‑world problems into clean, scalable web apps. Currently polishing my MERN skills while shipping small projects and learning in public.
 
